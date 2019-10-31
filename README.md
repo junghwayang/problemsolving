@@ -1,7 +1,7 @@
 # Solutions for Algorithms track
-I love solving problems and I do it whenever I get some free time. Here I share my own solutions for track `Algorithms` at [HackerRank](https://www.hackerrank.com/domains/algorithms).
+I love solving problems and I do it when I have some free time. Here I share my own solutions for track `Algorithms` at [HackerRank](https://www.hackerrank.com/domains/algorithms). All solutions are written in Python only.
 
-### 1. Warmup
+### 1. [Warmup](https://github.com/rosiejh/algorithms/tree/master/1.Warmup)
 - Solve Me First
 - Simple Array Sum
 - Compare the Triplets

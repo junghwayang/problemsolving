@@ -3,19 +3,19 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 
 ### 1. [Warmup](https://github.com/rosiejh/algorithms/tree/master/1.Warmup)
-- Solve Me First
-- Simple Array Sum
-- Compare the Triplets
-- A Very Big Sum
-- Diagonal Difference
-- Plus Minus
-- Staircase
-- Mini-Max Sum
-- Birthday Cake Candles
-- Time Conversion
+- Solve Me First [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/01-SolveMeFirst.py)]
+- Simple Array Sum [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/02-SimpleArraySum.py)]
+- Compare the Triplets [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/03-ComparetheTriplets.py)]
+- A Very Big Sum [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/04-AVeryBigSum.py)]
+- Diagonal Difference [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/05-DiagonalDifference.py)]
+- Plus Minus [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/06-PlusMinus.py)]
+- Staircase [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/07-Staircase.py)]
+- Mini-Max Sum [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/08-Mini-MaxSum.py)]
+- Birthday Cake Candles [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/09-BirthdayCakeCandles.py)]
+- Time Conversion [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/10-TimeConversion.py)]
 
 
-### 2. Implementation
+### 2. [Implementation](https://github.com/rosiejh/algorithms/tree/master/2.Implementation)
 - Grading Students
 - Apple and Orange
 - Kangaroo

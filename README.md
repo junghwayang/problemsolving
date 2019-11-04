@@ -1,5 +1,5 @@
 # Algorithms in Python
-I love solving problems and I do it when I have some free time. Here I share my own solutions for `Algorithms` track at [HackerRank](https://www.hackerrank.com/domains/algorithms). All solutions are written in Python only. I like coding in PYTHONish way, which means clean, short, beautiful and easy to understand, of course.
+I love solving problems and I do it when I have some free time. Here I share my own solutions for `Algorithms` track at [HackerRank](https://www.hackerrank.com/domains/algorithms). All solutions are written in Python only. I like coding in PYTHON-ish way, which means clean, short, beautiful and easy to understand, of course.
 
 
 ### 1. [Warmup](https://github.com/rosiejh/algorithms/tree/master/1.Warmup)
@@ -16,20 +16,21 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 
 ### 2. [Implementation](https://github.com/rosiejh/algorithms/tree/master/2.Implementation)
-- Grading Students
-- Apple and Orange
-- Kangaroo
-- Between Two Sets
-- Breaking the Records
-- Birthday Chocolate
-- Divisible Sum Pairs
-- Migratory Birds
-- Day of the Programmer
-- Bon Appétit
-- Sock Merchant
-- Drawing Book
-- Counting Valleys
-- Electronics Shop
+- Grading Students [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/01-GradingStudents.py)]
+- Apple and Orange [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/02-AppleandOrange.py
+)]
+- Kangaroo [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/03-Kangaroo.py)]
+- Between Two Sets [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/04-BetweenTwoSets.py)]
+- Breaking the Records [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/05-BreakingtheRecords.py)]
+- Birthday Chocolate [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/06-BirthdayChocolate.py)]
+- Divisible Sum Pairs [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/07-DivisibleSumPairs.py)]
+- Migratory Birds [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/08-MigratoryBirds.py)]
+- Day of the Programmer [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/09-DayoftheProgrammer.py)]
+- Bon Appétit [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/10-BonAppetit.py)]
+- Sock Merchant [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/11-SockMerchant.py)]
+- Drawing Book [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/12-DrawingBook.py)]
+- Counting Valleys [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/13-CountingValleys.py)]
+- Electronics Shop [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/14-ElectronicsShop.py)]
 - Cats and a Mouse
 - Forming a Magic Square
 - Picking Numbers

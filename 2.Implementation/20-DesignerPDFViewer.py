@@ -5,5 +5,4 @@ def designerPdfViewer(h, word):
 # OR
 
 def designerPdfViewer(h, word):
-    alphabet = 'abcdefghijklmnopqrstuvwxyz'
-    return max(map(lambda x: h[alphabet.index(x)], word)) * len(word)
+    return max(map(lambda x: h[ord(x) - ord('a')], word)) * len(word)

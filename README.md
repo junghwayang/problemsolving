@@ -31,12 +31,12 @@ I love solving problems and I do it when I have some free time. Here I share my 
 - Drawing Book [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/12-DrawingBook.py)]
 - Counting Valleys [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/13-CountingValleys.py)]
 - Electronics Shop [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/14-ElectronicsShop.py)]
-- Cats and a Mouse
-- Forming a Magic Square
-- Picking Numbers
-- Climbing the Leaderboard
-- The Hurdle Race
-- Designer PDF Viewer
+- Cats and a Mouse [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/15-CatsandaMouse.py)]
+- Forming a Magic Square [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/16-FormingaMagicSquare.py)]
+- Picking Numbers [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/17-PickingNumbers.py)]
+- Climbing the Leaderboard [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/18-ClimbingtheLeaderboard.py)]
+- The Hurdle Race [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/19-TheHurdleRace.py)]
+- Designer PDF Viewer [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/20-DesignerPDFViewer.py)]
 - Utopian Tree
 - Angry Professor
 - Beautiful Days at the Movies

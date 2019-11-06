@@ -2,7 +2,9 @@
 I love solving problems and I do it when I have some free time. Here I share my own solutions for `Algorithms` track at [HackerRank](https://www.hackerrank.com/domains/algorithms). All solutions are written in Python only. I like coding in PYTHON-ish way, which means clean, short, beautiful and easy to understand, of course.
 
 
-### 1. [Warmup](https://github.com/rosiejh/algorithms/tree/master/1.Warmup)
+<details><summary>
+### 1. [Warmup](https://github.com/rosiejh/algorithms/tree/master/1.Warmup)</summary>
+<p>
 - Solve Me First [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/01-SolveMeFirst.py)]
 - Simple Array Sum [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/02-SimpleArraySum.py)]
 - Compare the Triplets [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/03-ComparetheTriplets.py)]
@@ -13,7 +15,8 @@ I love solving problems and I do it when I have some free time. Here I share my 
 - Mini-Max Sum [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/08-Mini-MaxSum.py)]
 - Birthday Cake Candles [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/09-BirthdayCakeCandles.py)]
 - Time Conversion [[Code](https://github.com/rosiejh/algorithms/blob/master/1.Warmup/10-TimeConversion.py)]
-
+</p>
+</details>
 
 ### 2. [Implementation](https://github.com/rosiejh/algorithms/tree/master/2.Implementation)
 - Grading Students [[Code](https://github.com/rosiejh/algorithms/tree/master/2.Implementation/01-GradingStudents.py)]

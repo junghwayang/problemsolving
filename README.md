@@ -1,5 +1,5 @@
 # Algorithms in Python
-I love solving problems and I do it when I have some free time. Here I share my own solutions for `Algorithms` track at [HackerRank](https://www.hackerrank.com/domains/algorithms). All solutions are written in Python only. I like coding in PYTHON-ish way, which means clean, short, beautiful and easy to understand, of course.
+I love solving problems and I do it when I have some free time. Here I share my own solutions for `Algorithms` track at [HackerRank](https://www.hackerrank.com/domains/algorithms). (My HackerRank [profile](https://www.hackerrank.com/RosieJunghwa)) All solutions are written in Python only. I like coding in PYTHON-ish way, which means clean, short, beautiful and easy to understand, of course.
 
 
 ### 1. [Warmup](https://github.com/rosiejh/algorithms/tree/master/1.Warmup)

@@ -24,7 +24,7 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 ## Data Structures
 
-1. Arrays
+1. [Arrays](https://github.com/rosiejh/problemsolving/tree/master/DataStructures/1.Arrays)
 2. Linked Lists
 3. Trees
 4. Balanced Trees

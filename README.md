@@ -7,7 +7,7 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 1. [Warmup](https://github.com/rosiejh/HackerRank/tree/master/Algorithms/1.Warmup)
 2. [Implementation](https://github.com/rosiejh/HackerRank/tree/master/Algorithms/2.Implementation)
-3. Strings
+3. [Strings](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/3.%20Strings)
 4. Sorting
 5. Search
 6. Graph Theory
@@ -25,7 +25,7 @@ I love solving problems and I do it when I have some free time. Here I share my 
 ## Data Structures
 
 1. [Arrays](https://github.com/rosiejh/problemsolving/tree/master/DataStructures/1.Arrays)
-2. Linked Lists
+2. [Linked Lists](https://github.com/rosiejh/problemsolving/tree/master/Data%20Structures/2.%20Linked%20Lists)
 3. Trees
 4. Balanced Trees
 5. Stacks
@@ -60,8 +60,9 @@ I love solving problems and I do it when I have some free time. Here I share my 
 ---
 
 ## SQL
+* Using MySQL if not specified.
 
-1. Basic Select
+1. [Basic Select](https://github.com/rosiejh/problemsolving/tree/master/SQL/1.%20Basic%20Select)
 2. Advanced Select
 3. Aggregation
 4. Basic Join

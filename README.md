@@ -1,7 +1,6 @@
 # Solving problems in Python
 I love solving problems and I do it when I have some free time. Here I share my own solutions for [HackerRank](https://www.hackerrank.com). All solutions are written in Python only. I like coding in PYTHON-ish way, which means clean, short, beautiful and easy to understand, of course.
 
----
 
 ## Algorithms
 
@@ -20,7 +19,6 @@ I love solving problems and I do it when I have some free time. Here I share my 
 13. NP Complete
 14. Debugging
 
----
 
 ## Data Structures
 
@@ -36,7 +34,6 @@ I love solving problems and I do it when I have some free time. Here I share my 
 10. Trie
 11. Advanced
 
----
 
 ## Python
 1. Introduction
@@ -57,10 +54,9 @@ I love solving problems and I do it when I have some free time. Here I share my 
 16. Numpy
 17. Debugging
 
----
 
 ## SQL
-* Using MySQL if not specified.
+*Using `MySQL` if not specified.
 
 1. [Basic Select](https://github.com/rosiejh/problemsolving/tree/master/SQL/1.%20Basic%20Select)
 2. Advanced Select

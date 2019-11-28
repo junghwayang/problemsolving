@@ -7,7 +7,7 @@ I love solving problems and I do it when I have some free time. Here I share my 
 1. [Warmup](https://github.com/rosiejh/HackerRank/tree/master/Algorithms/1.Warmup)
 2. [Implementation](https://github.com/rosiejh/HackerRank/tree/master/Algorithms/2.Implementation)
 3. [Strings](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/3.%20Strings)
-4. Sorting
+4. [Sorting](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/4.%20Sorting)
 5. Search
 6. Graph Theory
 7. Greedy

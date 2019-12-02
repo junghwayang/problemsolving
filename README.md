@@ -36,7 +36,7 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 
 ## Python
-1. Introduction
+1. [Introduction](https://github.com/rosiejh/problemsolving/tree/master/Python/1.%20Introduction)
 2. Basic Data Types
 3. Strings
 4. Sets

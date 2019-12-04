@@ -4,8 +4,8 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 ## Algorithms
 
-1. [Warmup](https://github.com/rosiejh/HackerRank/tree/master/Algorithms/1.Warmup)
-2. [Implementation](https://github.com/rosiejh/HackerRank/tree/master/Algorithms/2.Implementation)
+1. [Warmup](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/1.%20Warmup)
+2. [Implementation](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/2.%20Implementation)
 3. [Strings](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/3.%20Strings)
 4. [Sorting](https://github.com/rosiejh/problemsolving/tree/master/Algorithms/4.%20Sorting)
 5. Search
@@ -37,7 +37,7 @@ I love solving problems and I do it when I have some free time. Here I share my 
 
 ## Python
 1. [Introduction](https://github.com/rosiejh/problemsolving/tree/master/Python/1.%20Introduction)
-2. Basic Data Types
+2. [Basic Data Types](https://github.com/rosiejh/problemsolving/tree/master/Python/2.%20Basic%20Data%20Types)
 3. Strings
 4. Sets
 5. Math
